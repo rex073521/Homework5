@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework5</string>
+
+    <string name="Homework5">Homework5</string>
+    <string name="btnOK">確認</string>
+    <string name="btnCancel">取消</string>
+    <string name="action_settings">Settings</string>
+</resources>
